@@ -12,7 +12,7 @@ This repository containts a real time **3D depth estmiation** using stereo camer
 
 <hr>
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/35613645/127658809-faf09e66-48de-4c60-8733-8b6842529bf6.gif)
+![ezgif com-gif-maker](https://drive.google.com/file/d/1YRaa89wkuPItIhEvSVgLi15FOmiAIlXv/view?usp=sharing)
 
 
 ## Dependencies
